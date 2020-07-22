@@ -1,0 +1,2 @@
+android:icon="@drawable-mdpi/ic_launcher"
+       android:theme ="Material.Light.NoActionBar.Fullscreen"

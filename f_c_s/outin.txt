@@ -1,0 +1,5 @@
+pizza (score=0.92201)
+nachos (score=0.02782)
+escargots (score=0.02412)
+waffles (score=0.00475)
+pancakes (score=0.00369)
